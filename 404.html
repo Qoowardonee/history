@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+<meta charset="utf-8">
+<title>Ошибка 404</title>
+<style>
+html { height: 100%; }
+    body {
+        background: url(img/bv.jpg) no-repeat;
+        background-size: cover; /* Масштабирует картинку сохраняя пропорции */
+    }
+.over {
+  background: rgba(0, 0, 0, 0.7); /* Цвет фона и значение прозрачности */
+  position: absolute; /* Абсолютное позиционирование */
+  left: 0; right: 0; top: 0; bottom: 0; /* Отступы от краев браузера */
+  }
+.404 {
+  margin-top: 100px;
+  text-align: center; /* Выравнивание текста по центру */
+  font-size: 10em;
+  color: #fcf9f9;
+  position: relative; /* Относительное позиционирование */
+  z-index: 2; /* Порядок наложения элемента по высоте */
+  }
+.notfound {
+  text-align: center;
+  color: #fff;
+  font-size: 2em;
+  position: relative; /* Относительное позиционирование */
+  z-index: 2; /* Порядок наложения элемента по слоям в глубину */
+  }
+.notfound a {
+  margin-top: 10%;
+  color: #fff;
+  font-size: 0.8em;
+  }
+.notfound a:hover {
+  color: yellow;
+  text-decoration: none;
+  }
+    /* body { margin:0;padding:0;background:#000;  overflow: hidden;} */
+    /* полоса прокрутки (скроллбар) */
+    ::-webkit-scrollbar {
+        width: 8px; /* ширина для вертикального скролла */
+        height: 8px; /* высота для горизонтального скролла */
+        background-color: #1a1a1a;
+    }
+
+    /* ползунок скроллбара */
+    ::-webkit-scrollbar-thumb {
+        background-color: #45abff;
+        border-radius: 9em;
+    }
+
+    .linia2 {
+        position: fixed; /* Фиксированное положение */
+        left: 0;
+        bottom: 0; /* Левый нижний угол */
+        padding: 1vh; /* Поля вокруг текста */
+        background: #1a1a1a; /* Цвет фона */
+        color: #e80e5a; /* Цвет текста */
+        font-family: 'Arial Rounded MT';
+        width: 100%; /* Ширина слоя */
+    }
+
+</style>
+    </head>
+<body>
+<div class="over"></div>
+<div class="404">404</div>
+<div class="notfound">
+    404 <br />
+    Ведутся технические работы или страница не найдена<br>
+    <a href="index.html">перейти на главную страницу...</a>
+
+    <div class="linia2">
+        Atheletics.WORLD DREAM &copy; 2021 | v3.0
+    </div>
+</div>
+</body>
+</html>
