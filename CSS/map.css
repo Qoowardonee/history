@@ -1,0 +1,338 @@
+body {
+    background: url(map.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+
+.linia {
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.img {
+    margin-top: -82px;
+    margin-left: -1px;
+}
+
+.profil {
+    margin-top: -90px;
+    margin-left: 2475px;
+}
+
+/**/
+
+a.buttonns {
+    margin-top: -83px;
+    margin-left: 870px;
+    padding: 10px 14px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    -webkit-transform-origin: 50% 1px;
+    -webkit-transition: all 0.15s step-end;
+    background: #161616;
+    border-color: rgba(255, 255, 255, 0.027451) #FF8C39 rgba(255, 255, 255, 0.027451) rgba(255, 255, 255, 0.027451);
+    border-style: solid;
+    border-width: 1px 4px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    color: #555;
+    display: block;
+    width: 90px;
+    font-family: Open Sans, Sans-serif;
+    border-radius: 30px;
+    font-size: 13px;
+    letter-spacing: 4px;
+    text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    a.buttonns:hover {
+        cursor: pointer;
+        opacity: 0.9;
+        border-width: 1px 7px 1px 1px;
+    }
+
+    a.buttonns:active {
+        -webkit-box-shadow: inset rgba(0, 0, 0, 0.701961) 0px 7px 12px,rgba(0, 0, 0, 0.701961) 0px 2px 12px;
+        text-shadow: rgb(0, 0, 0) 0px -2px 1px;
+        margin-top: 1px;
+    }
+
+/**/
+
+a.buttonn {
+    margin-top: -68px;
+    margin-left: 1020px;
+    padding: 10px 14px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    -webkit-transform-origin: 50% 1px;
+    -webkit-transition: all 0.15s step-end;
+    background: #161616;
+    border-color: rgba(255, 255, 255, 0.027451) #FF8C39 rgba(255, 255, 255, 0.027451) rgba(255, 255, 255, 0.027451);
+    border-style: solid;
+    border-width: 1px 4px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    color: #555;
+    display: block;
+    width: 90px;
+    font-family: Open Sans, Sans-serif;
+    border-radius: 30px;
+    font-size: 13px;
+    letter-spacing: 4px;
+    text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    a.buttonn:hover {
+        cursor: pointer;
+        opacity: 0.9;
+        border-width: 1px 7px 1px 1px;
+    }
+
+    a.buttonn:active {
+        -webkit-box-shadow: inset rgba(0, 0, 0, 0.701961) 0px 7px 12px,rgba(0, 0, 0, 0.701961) 0px 2px 12px;
+        text-shadow: rgb(0, 0, 0) 0px -2px 1px;
+        margin-top: 1px;
+    }
+
+/**/
+
+a.buttonni {
+    margin-top: -68px;
+    margin-left: 1170px;
+    padding: 10px 36px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    -webkit-transform-origin: 50% 1px;
+    -webkit-transition: all 0.15s step-end;
+    background: #161616;
+    border-color: rgba(255, 255, 255, 0.027451) #FF8C39 rgba(255, 255, 255, 0.027451) rgba(255, 255, 255, 0.027451);
+    border-style: solid;
+    border-width: 1px 4px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    color: #555;
+    display: block;
+    width: 150px;
+    font-family: Open Sans, Sans-serif;
+    border-radius: 30px;
+    font-size: 13px;
+    letter-spacing: 4px;
+    text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    a.buttonni:hover {
+        cursor: pointer;
+        opacity: 0.9;
+        border-width: 1px 7px 1px 1px;
+    }
+
+    a.buttonni:active {
+        -webkit-box-shadow: inset rgba(0, 0, 0, 0.701961) 0px 7px 12px,rgba(0, 0, 0, 0.701961) 0px 2px 12px;
+        text-shadow: rgb(0, 0, 0) 0px -2px 1px;
+        margin-top: 1px;
+    }
+
+/**/
+
+a.buttonnik {
+    margin-top: -68px;
+    margin-left: 1420px;
+    padding: 10px 36px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    -webkit-transform-origin: 50% 1px;
+    -webkit-transition: all 0.15s step-end;
+    background: #161616;
+    border-color: rgba(255, 255, 255, 0.027451) #FF8C39 rgba(255, 255, 255, 0.027451) rgba(255, 255, 255, 0.027451);
+    border-style: solid;
+    border-width: 1px 4px 1px 1px;
+    box-shadow: rgba(0, 0, 0, 0.701961) 0px 5px 12px;
+    color: #555;
+    display: block;
+    width: 150px;
+    font-family: Open Sans, Sans-serif;
+    border-radius: 30px;
+    font-size: 13px;
+    letter-spacing: 4px;
+    text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+    line-height: 30px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+
+    a.buttonnik:hover {
+        cursor: pointer;
+        opacity: 0.9;
+        border-width: 1px 7px 1px 1px;
+    }
+
+    a.buttonnik:active {
+        -webkit-box-shadow: inset rgba(0, 0, 0, 0.701961) 0px 7px 12px,rgba(0, 0, 0, 0.701961) 0px 2px 12px;
+        text-shadow: rgb(0, 0, 0) 0px -2px 1px;
+        margin-top: 1px;
+    }
+
+#yandexmap {
+    margin-top: 500px;
+    margin-left: -200px;
+}
+
+/*
+ul.kn {
+    list-style-type: none;
+    margin-top: -60px;
+    margin-left: 900px;
+    font-size: xx-large;
+    font-size-adjust: 0.7;
+    font-family: fantasy;
+    color: #ff0000;
+}
+
+ul.kn2 {
+    list-style-type: none;
+    margin-top: -71px;
+    margin-left: 1045px;
+    font-size: xx-large;
+    font-size-adjust: 0.7;
+    font-family: fantasy;
+    color: #ff0000;
+}
+
+ul.kn3 {
+    list-style-type: none;
+    margin-top: -71px;
+    margin-left: 1150px;
+    font-size: xx-large;
+    font-size-adjust: 0.7;
+    font-family: fantasy;
+    color: #ff0000;
+}
+
+ul.kn4 {
+    list-style-type: none;
+    margin-top: -71px;
+    margin-left: 1330px;
+    font-size: xx-large;
+    font-size-adjust: 0.7;
+    font-family: fantasy;
+    color: #ff0000;
+}*/
+
+
+/*{
+    color: #ff006c;
+    margin-top: 200px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    margin-left: 600px;
+    font-weight: 900;
+    font-size-adjust: inherit;
+    font-family: cursive;
+} */
+
+
+
+
+
+/*a.boot {
+    -webkit-transform: translate3D(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    color: #2d2d2d;
+    margin-top: 300px;
+    margin-left: 800px;
+    margin-right: 500px;
+    font-family: "Helvetica";
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 20px;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+    display: block;
+    width: 90px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+    a.boot:after {
+        padding: 0;
+        border: 2px solid #000000;
+        content: '';
+        width: 95%;
+        height: 100px;
+        display: block;
+        position: absolute;
+        z-index: -2;
+        top: 0;
+        left: 0;
+    }
+
+    a.boot:before {
+        -webkit-transition: all 0s ease-in-out;
+        -moz-transition: all 0s ease-in-out;
+        -o-transition: all 0s ease-in-out;
+        transition: all 0s ease-in-out;
+        content: '';
+        width: 100%;
+        height: 60px;
+        display: block;
+        position: absolute;
+        z-index: -1;
+        border-left: 15px solid white;
+        box-shadow: -30px 30px 30px white;
+        background: transparent;
+        top: 0px;
+        left: -100px;
+        margin-left: -1px;
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -ms-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
+
+    a.boot:hover:before, a.boot:active:before, a.boot:focus:before {
+        -webkit-transition: all 0.4s ease-in-out;
+        -moz-transition: all 0.4s ease-in-out;
+        -o-transition: all 0.4s ease-in-out;
+        transition: all 0.4s ease-in-out;
+        -webkit-transform: translate(115%, 0);
+        -moz-transform: translate(115%, 0);
+        -ms-transform: translate(115%, 0);
+        -o-transform: translate(115%, 0);
+        transform: translate(115%, 0);
+    }
+*/
+
+
+
+
+/* черный фон сайта */
+/*body {
+    background-color: #000;
+}*/
+
+
+/* черный фон заголовка, белый цвет шрифта */
+
+
+/*body {
+    background-color: #000;
+    background-image: url ("file:///C:/Users/dotse/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/nvJMkFnZ26o.jpg");
+}*/
+
+/* body {
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+} */
